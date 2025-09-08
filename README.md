@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/TreblesomeTenor/TreblesomeTenor/master/name.svg" alt="TreblesomeTenor" />
+</h1>
 
-<!--
-**TreblesomeTenor/TreblesomeTenor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm TreblesomeTenor, a Minecraft mod developer and client enthusiast.
 
-Here are some ideas to get you started:
+- 🦾 Dev of **LootTech 2.0** and **ThunderHack-Reborn**
+- 👨‍💻 Developing custom Minecraft clients and gameplay features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 Java, Kotlin, JavaScript, Node.js  
+- ⚙️ Minecraft Forge, Fabric, ModLoader APIs, GUI rendering  
+- 💽 MySQL, MongoDB, JSON, file manipulation  
+- 📊 Grafana (monitoring & analytics)  
+- 🐧 Linux, Git, GitHub, debugging, reverse engineering
+
+## Projects & Links
+- LootTech – Custom Minecraft client
+- [ThunderHack-Reborn](https://github.com/TreblesomeTenor/ThunderHack-Reborn) – Advanced client features  
+- [Other mods & experiments](https://github.com/TreblesomeTenor)
+
+## Contact
+- [GitHub](https://github.com/TreblesomeTenor)
+- Discord: `TreblesomeTenor`
