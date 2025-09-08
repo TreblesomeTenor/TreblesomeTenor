@@ -28,5 +28,4 @@ I'm TreblesomeTenor, a Minecraft mod developer and client enthusiast.
 - [Other mods & experiments](https://github.com/TreblesomeTenor?tab=repositories)
 
 ## Contact
-- [GitHub](https://github.com/TreblesomeTenor)
 - Discord: `TreblesomeTenor`
