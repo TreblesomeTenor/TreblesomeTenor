@@ -11,7 +11,7 @@ I'm TreblesomeTenor, a Minecraft mod developer and client enthusiast.
 - 🦾 Dev of **LootTech 2.0** and **ThunderHack-Reborn**
 - 👨‍💻 Developing custom Minecraft clients and gameplay features
 
-![Visitor Count](https://profile-counter.glitch.me/TreblesomeTenor/count.svg)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=TreblesomeTenor)
 
 ## Skills
 - 👨‍💻 Java, Kotlin, JavaScript, Node.js  
