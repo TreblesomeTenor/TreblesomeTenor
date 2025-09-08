@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/TreblesomeTenor/TreblesomeTenor/master/name.svg" alt="TreblesomeTenor" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&width=435&lines=TreblesomeTenor)](https://git.io/typing-svg)
 </h1>
 
 ## Hey! 👋
