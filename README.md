@@ -7,6 +7,8 @@
 ## Hey! 👋
 I'm TreblesomeTenor, a Minecraft mod developer and client enthusiast.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreblesomeTenor&layout=compact)
+
 - 🦾 Dev of **LootTech 2.0** and **ThunderHack-Reborn**
 - 👨‍💻 Developing custom Minecraft clients and gameplay features
 
