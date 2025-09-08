@@ -12,7 +12,7 @@ I'm TreblesomeTenor, a Minecraft mod developer and client enthusiast.
 
 ## Skills
 - 👨‍💻 Java, Kotlin, JavaScript, Node.js  
-- ⚙️ Minecraft Forge, Fabric, ModLoader APIs, GUI rendering  
+- ⚙️ Minecraft Fabric, ModLoader APIs, GUI rendering  
 - 💽 MySQL, MongoDB, JSON, file manipulation  
 - 📊 Grafana (monitoring & analytics)  
 - 🐧 Linux, Git, GitHub, debugging, reverse engineering
