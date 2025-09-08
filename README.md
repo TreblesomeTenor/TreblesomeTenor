@@ -18,7 +18,7 @@ I'm TreblesomeTenor, a Minecraft mod developer and client enthusiast.
 ## Projects & Links
 - LootTech – Custom Minecraft client
 - [ThunderHack-Reborn](https://github.com/TreblesomeTenor/ThunderHack-Reborn) – Advanced client features  
-- [Other mods & experiments](https://github.com/TreblesomeTenor)
+- [Other mods & experiments](https://github.com/TreblesomeTenor?tab=repositories)
 
 ## Contact
 - [GitHub](https://github.com/TreblesomeTenor)
